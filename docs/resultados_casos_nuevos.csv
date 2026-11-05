@@ -1,0 +1,18 @@
+consulta,esperado,obtenido,confianza,correcto,tiempo_ms,motivo
+no sé mi clave y no puedo ingresar al computador,ACC-001,EQU-001,0.198,False,3.01,Artículo vigente encontrado con confianza suficiente.
+mi usuario está inhabilitado por varios intentos,ACC-002,ACC-002,0.329,True,1.91,Artículo vigente encontrado con confianza suficiente.
+no me llega el código del segundo factor,ACC-003,ACC-003,0.428,True,1.75,Artículo vigente encontrado con confianza suficiente.
+no me deja abrir una carpeta de red,ACC-004,ACC-004,0.253,True,1.7,Artículo vigente encontrado con confianza suficiente.
+outlook no actualiza los mensajes nuevos,COR-001,COR-001,0.289,True,1.67,Artículo vigente encontrado con confianza suficiente.
+no puedo recibir más correos porque mi bandeja está al límite,COR-002,COR-001,0.309,False,1.79,Artículo vigente encontrado con confianza suficiente.
+quiero configurar mi correo en el android,COR-003,COR-003,0.488,True,1.66,Artículo vigente encontrado con confianza suficiente.
+se me cayó el internet,RED-001,RED-001,0.425,True,1.71,Artículo vigente encontrado con confianza suficiente.
+la vpn no me deja conectar,RED-003,RED-003,0.301,True,1.88,Artículo vigente encontrado con confianza suficiente.
+la impresora aparece sin conexión,IMP-002,IMP-002,0.325,True,1.87,Artículo vigente encontrado con confianza suficiente.
+la computadora está muy lenta,EQU-001,ESCALAR,0.171,False,2.1,Consulta ambigua: varios artículos tienen puntajes muy cercanos.
+no se ve el segundo monitor,EQU-002,EQU-002,0.46,True,1.9,Artículo vigente encontrado con confianza suficiente.
+no se escucha el audio en teams,COL-001,COL-001,0.429,True,1.76,Artículo vigente encontrado con confianza suficiente.
+me robaron el celular de la empresa,SEG-002,SEG-002,0.354,True,1.84,Artículo vigente encontrado con confianza suficiente.
+cómo pido un mouse nuevo,SOL-001,SOL-001,0.332,True,1.67,Artículo vigente encontrado con confianza suficiente.
+quiero saber cuándo es la próxima capacitación,ESCALAR,ESCALAR,0.062,True,1.72,Confianza baja: no se encontró un artículo suficientemente parecido.
+ayúdenme a reservar un vuelo,ESCALAR,ESCALAR,0.045,True,1.73,Confianza baja: no se encontró un artículo suficientemente parecido.

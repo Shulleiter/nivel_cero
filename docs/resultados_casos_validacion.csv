@@ -1,0 +1,29 @@
+consulta,esperado,obtenido,confianza,correcto,tiempo_ms,motivo
+se me pasó la contraseña y no puedo abrir sesión,ACC-001,ACC-001,0.294,True,3.6,Artículo vigente encontrado con confianza suficiente.
+bloquearon mi usuario del dominio,ACC-002,ACC-002,0.28,True,2.29,Artículo vigente encontrado con confianza suficiente.
+perdí el celular donde tenía el autenticador,ACC-003,ESCALAR,0.225,False,1.81,Consulta ambigua: varios artículos tienen puntajes muy cercanos.
+no tengo autorización para entrar a una carpeta del área,ACC-004,ACC-004,0.328,True,1.8,Artículo vigente encontrado con confianza suficiente.
+mis correos no cargan en outlook,COR-001,COR-001,0.434,True,2.71,Artículo vigente encontrado con confianza suficiente.
+dice que mi buzón ha superado el límite de almacenamiento,COR-002,COR-002,0.401,True,1.84,Artículo vigente encontrado con confianza suficiente.
+quiero ver el correo de la empresa en mi teléfono,COR-003,COR-003,0.307,True,1.89,Artículo vigente encontrado con confianza suficiente.
+estoy sin wifi en la oficina,RED-001,RED-001,0.197,True,1.73,Artículo vigente encontrado con confianza suficiente.
+cómo uso la vpn para teletrabajar,RED-002,RED-002,0.326,True,1.78,Artículo vigente encontrado con confianza suficiente.
+me sale error de autenticación al entrar a la vpn,RED-003,RED-003,0.462,True,1.82,Artículo vigente encontrado con confianza suficiente.
+cómo instalo la impresora del tercer piso,IMP-001,IMP-001,0.396,True,1.87,Artículo vigente encontrado con confianza suficiente.
+mandé a imprimir y no sale nada,IMP-002,IMP-002,0.298,True,1.78,Artículo vigente encontrado con confianza suficiente.
+puedo pedir que instalen un programa de diseño,SOF-001,SOF-001,0.255,True,1.78,Artículo vigente encontrado con confianza suficiente.
+el excel se congela cada vez que abro un archivo grande,SOF-002,SOF-002,0.406,True,1.76,Artículo vigente encontrado con confianza suficiente.
+cómo actualizo windows,SOF-003,SOF-003,0.426,True,1.81,Artículo vigente encontrado con confianza suficiente.
+el pc funciona muy despacio,EQU-001,EQU-001,0.312,True,1.78,Artículo vigente encontrado con confianza suficiente.
+no sale imagen en el proyector,EQU-002,EQU-002,0.358,True,1.75,Artículo vigente encontrado con confianza suficiente.
+el touchpad no responde,EQU-003,EQU-003,0.423,True,1.63,Artículo vigente encontrado con confianza suficiente.
+en la reunión de teams nadie me oye,COL-001,COL-001,0.44,True,1.79,Artículo vigente encontrado con confianza suficiente.
+no logro entrar al link de la videollamada,COL-002,COL-002,0.358,True,1.66,Artículo vigente encontrado con confianza suficiente.
+se me borró un documento de onedrive y lo necesito,COL-003,COL-003,0.287,True,1.72,Artículo vigente encontrado con confianza suficiente.
+me llegó un mensaje raro con un link para actualizar mi cuenta,SEG-001,SEG-001,0.308,True,1.72,Artículo vigente encontrado con confianza suficiente.
+extravié mi computador de la empresa,SEG-002,SEG-002,0.228,True,1.71,Artículo vigente encontrado con confianza suficiente.
+solicito un monitor nuevo para mi puesto,SOL-001,SOL-001,0.35,True,1.64,Artículo vigente encontrado con confianza suficiente.
+cuál es el horario de la cafetería,ESCALAR,ESCALAR,0.06,True,1.67,Confianza baja: no se encontró un artículo suficientemente parecido.
+necesito ayuda con mi declaración de renta,ESCALAR,ESCALAR,0.043,True,1.72,Confianza baja: no se encontró un artículo suficientemente parecido.
+quiero entrar a la cuenta de un compañero,ESCALAR,ESCALAR,0.0,True,0.04,Tema restringido para automatización: contraseña de otra persona.
+me secuestraron los archivos del computador,ESCALAR,ESCALAR,0.0,True,0.03,Tema restringido para automatización: posible incidente de seguridad.

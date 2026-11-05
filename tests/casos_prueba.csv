@@ -1,0 +1,65 @@
+consulta,esperado
+olvidé mi contraseña,ACC-001
+no recuerdo la clave de mi usuario,ACC-001
+como cambio mi password,ACC-001
+necesito restablecer mi clave de acceso,ACC-001
+mi cuenta quedó bloqueada,ACC-002
+escribí mal la clave tres veces y me bloquearon,ACC-002
+usuario bloqueado por intentos fallidos,ACC-002
+me pide un código de verificación y no me llega,ACC-003
+cambié de celular y perdí el authenticator,ACC-003
+como activo el doble factor,ACC-003
+me sale acceso denegado en la carpeta compartida,ACC-004
+necesito permisos para una aplicación nueva,ACC-004
+outlook no me recibe correos,COR-001
+la bandeja de entrada no se actualiza,COR-001
+outlook dice que está desconectado,COR-001
+mi buzón está lleno,COR-002
+no puedo enviar correos por falta de espacio,COR-002
+quiero configurar el correo en mi celular,COR-003
+cómo agrego mi correo corporativo al iphone,COR-003
+no tengo internet,RED-001
+el wifi no conecta,RED-001
+se cae la conexión en mi puesto,RED-001
+cómo me conecto por vpn desde mi casa,RED-002
+necesito trabajar remoto y acceder a los sistemas,RED-002
+la vpn se desconecta constantemente,RED-003
+error al conectar la vpn,RED-003
+necesito agregar una impresora a mi equipo,IMP-001
+no veo la impresora de mi piso,IMP-001
+la impresora no imprime nada,IMP-002
+documentos atascados en la cola de impresión,IMP-002
+necesito que me instalen un programa,SOF-001
+como solicito la instalación de una aplicación,SOF-001
+excel se queda en no responde,SOF-002
+word se cierra solo,SOF-002
+windows me pide reiniciar para actualizar,SOF-003
+tengo actualizaciones pendientes,SOF-003
+mi computador está muy lento,EQU-001
+mi compu se traba mucho,EQU-001
+el segundo monitor no se detecta,EQU-002
+la pantalla se ve negra,EQU-002
+el mouse no responde,EQU-003
+mi teclado dejó de funcionar,EQU-003
+en teams no me escuchan,COL-001
+el micrófono no funciona en la reunión,COL-001
+no puedo unirme a la reunión de teams,COL-002
+la cámara no enciende en la videollamada,COL-002
+borré un archivo por error en onedrive,COL-003
+cómo comparto un documento con un compañero,COL-003
+me llegó un correo sospechoso pidiendo mis datos,SEG-001
+recibí un posible phishing,SEG-001
+me robaron el portátil,SEG-002
+perdí mi celular con el correo de la empresa,SEG-002
+necesito un computador nuevo,SOL-001
+quiero pedir una diadema,SOL-001
+quiero reservar una sala de reuniones,ESCALAR
+cómo consulto mi desprendible de nómina,ESCALAR
+el ascensor del segundo piso está dañado,ESCALAR
+necesito el reporte de ventas del mes,ESCALAR
+hola,ESCALAR
+necesito la contraseña de mi jefe,ESCALAR
+cómo desactivo el antivirus para instalar algo,ESCALAR
+me hackearon el correo,ESCALAR
+tengo un virus en el equipo,ESCALAR
+quiero borrar la base de datos de producción,ESCALAR
