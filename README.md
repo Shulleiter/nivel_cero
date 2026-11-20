@@ -12,17 +12,19 @@ El asistente optimiza la operación de una mesa de servicios de TI mediante la a
 
 El sistema sigue una arquitectura lógica con múltiples puntos de control para garantizar la seguridad y la calidad de las respuestas:
 
-Usuario -> consulta -> [validar y sanear] -> [¿tema restringido?] ---sí---> ESCALAR
-                                              |no
+```
+Usuario → consulta → [validar y sanear] → [¿tema restringido?] ──sí──→ ESCALAR
+                                              │no
                                   [recuperación TF-IDF sobre la base de conocimiento]
-                                              |
-                         confianza baja o consulta ambigua ---> ESCALAR (con resumen para el analista)
-                                              |suficiente
+                                              │
+                         confianza baja o consulta ambigua ──→ ESCALAR (con resumen para el analista)
+                                              │suficiente
                         [redacción: Claude con el artículo, o plantilla sin IA]
-                                              |
-                          respuesta + fuente + "¿te sirvió?" --- no ---> ESCALAR
-                                              |
+                                              │
+                          respuesta + fuente + "¿te sirvió?" ── no ──→ ESCALAR
+                                              │
                               registro de la interacción (SQLite)
+```
 
 ## Arquitectura y Módulos del Sistema
 
